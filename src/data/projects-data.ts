@@ -23,7 +23,7 @@ export const projects: Project[] = [
 		name: "Valle Verde Laboratorio",
 		images: ["screenshots/valle-verde-lab.png"],
 		description:
-			"Aplicación web para la gestión de recepciones de leche y análisis de su calidad. Incluye la generación de reportes y un modulo de acceso para los productores de leche, donde pueden consultar el estado de sus recepciones y los resultados de los análisis de calidad.",
+			"Aplicación web para la gestión de recepciones de leche y análisis de su calidad. Incluye la generación de reportes y un módulo de acceso para los productores de leche, donde pueden consultar el estado de sus recepciones y los resultados de los análisis de calidad.",
 		technologies: [NEXT_JS, TAILWIND, TYPESCRIPT, LARAVEL, PHP, MY_SQL],
 		features: [
 			"Dashboard interactivo",
@@ -32,8 +32,8 @@ export const projects: Project[] = [
 			"Sistema de roles",
 		],
 		featured: true,
-		year: 2025,
-		duration: "4 meses",
+		year: 2026,
+		duration: "3 meses",
 	},
 	{
 		name: "ECOMODA - ERP",
@@ -62,7 +62,7 @@ export const projects: Project[] = [
 		name: "Pome Roses - Price Calculator",
 		images: ["screenshots/pome-roses-price-calculator.png"],
 		description:
-			"App para calcular el precio de detalles y arreglos florales. Incluye la generación de reportes en PDF con los detalles de la cotización y facturización.",
+			"App para calcular el precio de detalles y arreglos florales. Incluye la generación de reportes en PDF con los detalles de la cotización y facturación.",
 		technologies: [REACT, TAILWIND, TYPESCRIPT],
 		features: [],
 		featured: true,
@@ -84,7 +84,7 @@ export const projects: Project[] = [
 		name: "AnimLibrary",
 		images: ["screenshots/animlibrary-project.png"],
 		description:
-			"Mi primer proyecto. Una aplicación monolitica con catálogo y streaming de animes, OVAS y peliculas.",
+			"Mi primer proyecto. Una aplicación monolítica con catálogo y streaming de animes, OVAS y películas.",
 		technologies: [HTML, SASS, JAVASCRIPT, NODE_JS, EXPRESS_JS, MONGO_DB],
 		features: [],
 		featured: false,

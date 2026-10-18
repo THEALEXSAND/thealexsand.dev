@@ -18,7 +18,7 @@ const {
 
 export const experiences = [
 	{
-		title: "Análista de Informatica",
+		title: "Analista de Informática",
 		company: "Industria Lácteos Valle Verde C.A",
 		location: "San Felipe, Yaracuy",
 		date: "Febrero 2026 — Julio 2026",
